@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-06-24T22:25:30 IST" name="Banking Suite" finished-at="2026-06-24T22:26:05 IST" duration-ms="35385">
+  <suite started-at="2026-06-24T22:29:29 IST" name="Banking Suite" finished-at="2026-06-24T22:30:02 IST" duration-ms="32923">
     <groups>
     </groups>
-    <test started-at="2026-06-24T22:25:30 IST" name="Google Test" finished-at="2026-06-24T22:26:05 IST" duration-ms="35385">
+    <test started-at="2026-06-24T22:29:29 IST" name="Google Test" finished-at="2026-06-24T22:30:02 IST" duration-ms="32923">
       <class name="com.nikhil.banking.tests.OrangeHRMLogoutTest">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.nikhil.banking.tests.OrangeHRMLogoutTest@5e7cd6cc]" started-at="2026-06-24T22:25:44 IST" name="setUp" finished-at="2026-06-24T22:25:45 IST" duration-ms="1191" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.nikhil.banking.tests.OrangeHRMLogoutTest@5e7cd6cc]" started-at="2026-06-24T22:29:40 IST" name="setUp" finished-at="2026-06-24T22:29:42 IST" duration-ms="1402" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.nikhil.banking.tests.OrangeHRMLogoutTest@5e7cd6cc]" started-at="2026-06-24T22:25:45 IST" name="loginTest" data-provider="loginData" finished-at="2026-06-24T22:25:53 IST" duration-ms="7225" status="PASS">
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.nikhil.banking.tests.OrangeHRMLogoutTest@5e7cd6cc]" started-at="2026-06-24T22:29:42 IST" name="loginTest" data-provider="loginData" finished-at="2026-06-24T22:29:49 IST" duration-ms="7683" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -34,13 +34,13 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nikhil.banking.tests.OrangeHRMLogoutTest@5e7cd6cc]" started-at="2026-06-24T22:25:53 IST" name="tearDown" finished-at="2026-06-24T22:25:53 IST" duration-ms="148" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nikhil.banking.tests.OrangeHRMLogoutTest@5e7cd6cc]" started-at="2026-06-24T22:29:49 IST" name="tearDown" finished-at="2026-06-24T22:29:50 IST" duration-ms="346" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.nikhil.banking.tests.OrangeHRMLogoutTest -->
       <class name="com.nikhil.banking.tests.OrangeHRMForgotPasswordTest">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.nikhil.banking.tests.OrangeHRMForgotPasswordTest@d554c5f]" started-at="2026-06-24T22:26:01 IST" name="setUp" finished-at="2026-06-24T22:26:03 IST" duration-ms="1195" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.nikhil.banking.tests.OrangeHRMForgotPasswordTest@d554c5f]" started-at="2026-06-24T22:29:57 IST" name="setUp" finished-at="2026-06-24T22:29:59 IST" duration-ms="1281" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -51,17 +51,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="forgotPasswordTest()[pri:0, instance:com.nikhil.banking.tests.OrangeHRMForgotPasswordTest@d554c5f]" started-at="2026-06-24T22:26:03 IST" name="forgotPasswordTest" finished-at="2026-06-24T22:26:05 IST" duration-ms="2759" status="PASS">
+        <test-method signature="forgotPasswordTest()[pri:0, instance:com.nikhil.banking.tests.OrangeHRMForgotPasswordTest@d554c5f]" started-at="2026-06-24T22:29:59 IST" name="forgotPasswordTest" finished-at="2026-06-24T22:30:01 IST" duration-ms="2627" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- forgotPasswordTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nikhil.banking.tests.OrangeHRMForgotPasswordTest@d554c5f]" started-at="2026-06-24T22:26:05 IST" name="tearDown" finished-at="2026-06-24T22:26:05 IST" duration-ms="189" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nikhil.banking.tests.OrangeHRMForgotPasswordTest@d554c5f]" started-at="2026-06-24T22:30:01 IST" name="tearDown" finished-at="2026-06-24T22:30:02 IST" duration-ms="335" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.nikhil.banking.tests.OrangeHRMForgotPasswordTest -->
       <class name="com.nikhil.banking.tests.OrangeHRMLoginTest">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.nikhil.banking.tests.OrangeHRMLoginTest@304bb45b]" started-at="2026-06-24T22:25:30 IST" name="setUp" finished-at="2026-06-24T22:25:36 IST" duration-ms="5642" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.nikhil.banking.tests.OrangeHRMLoginTest@304bb45b]" started-at="2026-06-24T22:29:29 IST" name="setUp" finished-at="2026-06-24T22:29:32 IST" duration-ms="2973" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -72,17 +72,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginTest()[pri:0, instance:com.nikhil.banking.tests.OrangeHRMLoginTest@304bb45b]" started-at="2026-06-24T22:25:36 IST" name="loginTest" finished-at="2026-06-24T22:25:41 IST" duration-ms="5631" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:com.nikhil.banking.tests.OrangeHRMLoginTest@304bb45b]" started-at="2026-06-24T22:29:32 IST" name="loginTest" finished-at="2026-06-24T22:29:37 IST" duration-ms="5525" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nikhil.banking.tests.OrangeHRMLoginTest@304bb45b]" started-at="2026-06-24T22:25:41 IST" name="tearDown" finished-at="2026-06-24T22:25:42 IST" duration-ms="360" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nikhil.banking.tests.OrangeHRMLoginTest@304bb45b]" started-at="2026-06-24T22:29:37 IST" name="tearDown" finished-at="2026-06-24T22:29:37 IST" duration-ms="288" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.nikhil.banking.tests.OrangeHRMLoginTest -->
       <class name="com.nikhil.banking.tests.OrangeHRMNegativeLoginTest">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.nikhil.banking.tests.OrangeHRMNegativeLoginTest@68c9d179]" started-at="2026-06-24T22:25:53 IST" name="setUp" finished-at="2026-06-24T22:25:54 IST" duration-ms="1269" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.nikhil.banking.tests.OrangeHRMNegativeLoginTest@68c9d179]" started-at="2026-06-24T22:29:50 IST" name="setUp" finished-at="2026-06-24T22:29:51 IST" duration-ms="1452" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -93,11 +93,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="invalidLoginTest()[pri:0, instance:com.nikhil.banking.tests.OrangeHRMNegativeLoginTest@68c9d179]" started-at="2026-06-24T22:25:54 IST" name="invalidLoginTest" finished-at="2026-06-24T22:26:01 IST" duration-ms="6918" status="PASS">
+        <test-method signature="invalidLoginTest()[pri:0, instance:com.nikhil.banking.tests.OrangeHRMNegativeLoginTest@68c9d179]" started-at="2026-06-24T22:29:51 IST" name="invalidLoginTest" finished-at="2026-06-24T22:29:57 IST" duration-ms="6074" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- invalidLoginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nikhil.banking.tests.OrangeHRMNegativeLoginTest@68c9d179]" started-at="2026-06-24T22:26:01 IST" name="tearDown" finished-at="2026-06-24T22:26:01 IST" duration-ms="297" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nikhil.banking.tests.OrangeHRMNegativeLoginTest@68c9d179]" started-at="2026-06-24T22:29:57 IST" name="tearDown" finished-at="2026-06-24T22:29:57 IST" duration-ms="177" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
